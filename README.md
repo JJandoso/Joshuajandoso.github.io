@@ -1,17 +1,17 @@
-
 <html lang="en">
 
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="Joshua da Vitoria Jandoso" content="My personal web page. ">
-    <meta name="Joshua da Vitoria Jandoso" content="My personal web page.">
+    <meta name="Diogo Sperandio" content="My personal web page. Simple as it should be - Diogo Antonio Sperandio Xavier - Brazilian and Italian (BR-IT) Developer, technician in electrical engineering, mechanical engineer and moving towards a master's degree. ">
+    <meta name="Diogo Xavier" content="My personal web page. Simple as it should be - Diogo Antonio Sperandio Xavier - Brazilian and Italian (BR-IT) Developer, technician in electrical engineering, mechanical engineer and moving towards a master's degree.">
     <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.1/build/pure-min.css" integrity="sha384-oAOxQR6DkCoMliIh8yFnu25d7Eq/PHS21PClpwjOTeU2jRSq11vu66rf90/cZr47" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
-    <title>Joshua da Vitoria Jandoso</title>
+    <title>Diogo Sperandio</title>
 </head>
+
 
 <body class="container">
     <main class="page-content" aria-label="Content">
