@@ -1,17 +1,19 @@
-<html lang="en">
-
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="Diogo Sperandio" content="My personal web page. Simple as it should be - Diogo Antonio Sperandio Xavier - Brazilian and Italian (BR-IT) Developer, technician in electrical engineering, mechanical engineer and moving towards a master's degree. ">
-    <meta name="Diogo Xavier" content="My personal web page. Simple as it should be - Diogo Antonio Sperandio Xavier - Brazilian and Italian (BR-IT) Developer, technician in electrical engineering, mechanical engineer and moving towards a master's degree.">
-    <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.1/build/pure-min.css" integrity="sha384-oAOxQR6DkCoMliIh8yFnu25d7Eq/PHS21PClpwjOTeU2jRSq11vu66rf90/cZr47" crossorigin="anonymous">
-    <link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="css/style.css">
-    <title>Diogo Sperandio</title>
-</head>
-
+    <title>Igor Bonfim</title>
+    <link rel="icon" type="imagem/png" href="/img/icone.ico"/>
+    <link rel="stylesheet" href="/css/reset.css">
+    <link rel="stylesheet" href="/css/base.css">
+    <link rel="stylesheet" href="/css/header.css">
+    <link rel="stylesheet" href="/css/titulo.css">
+    <link rel="stylesheet" href="/css/sobre.css">
+    <link rel="stylesheet" href="/css/footer.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/6622ab6f05.js" crossorigin="anonymous"></script>
 
 <body class="container">
     <main class="page-content" aria-label="Content">
