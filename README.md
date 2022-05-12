@@ -42,16 +42,12 @@
             <body>
                 <div class="about-me">
 
-                    <h3 id="hello-world">Hello World!</h3>
-                    <p> I'm Diogo, currently working as a software developer (Full Stack Angular/Java). I graduated in electrical engineering technician 
-                        and I'm finishing my degree in mechanical engineering. In the future, I want to pursue a master's degree IT, and continue to specialize more and more. I'm currently studying cloud and architecture.
-                        I constantly study new tools, languages and technologies in order to be updated and constantly learning. 
-                        I'm currently studying AWS, server architecture and event-driven programming. I'm ready for the new and always willing to learn.
+                    <h3 id="hello-world">Hey there! </h3>
+                    <p> Welcome to my profile, as you might have guessed my name is Joshua. A little about myself, I'm an american currently living in Brazil while pursuing my bachellors degree. At the moment i'm studying and bettering myself so that i can pursue a carrer as an full-stack developer and in the near future pursue a masters degree in IT. I work with respect, efficiency and above that charisma. Thats why i'm always willing to learn and adapt to new challenges in life.
                     </p>
                     <p>
-                        I have already worked in the mechanical engineering area as an intern in the maintenance sector, as a technical salesperson in the 
-                        area of automotive lubricants (motul) and managed a project to set up a model car workshop, in addition to creating a 
-                        micro-enterprise that sustained me for a long time, until that I found my true passion, programming. I'm a programmer, I use whatever technology I need to use.
+                        I have already worked in the mechanical engineering area as an intern in the maintenance sector, where I was responsible for adopting preventive and corretive action on heavy machinery while gathering data to determine future actions on the equipmment based on their history. I have also worked as an intern in the aciliary sector of an offshore company focused on oil and gas extration, while there i was part of a team of engineers responsible of using softwares such as Solidworks and AutoCad to make aciliary drawings as requested by the company.
+My goal currently is to get my first opportunity as a Junior Full-Stack Developer and thats why I study programing. At the moment I'm on my ninth semester in my Mechanical Engineering Bachelors degree and i have several other degrees in the engineering area but I found programming to be my passion and thats why im pursuing this dream of being a programmer.
                     </p>
                     <p class="contat-me">Contact me at <a href="mailto:jjandoso@gmail.com" target="_blank" rel="noopener noreferrer" title="Come on, tell me the good news!">jjandoso@gmail.com</a>.</p>
                     <p class="contat-me">More on <a href="https://www.linkedin.com/in/joshua-jandoso/?locale=en_US" target="_blank" rel="noopener noreferrer" title="My Linkedin page">Linkedin</a>.</p>
