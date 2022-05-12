@@ -18,7 +18,7 @@
         <div class="wrapper">
             <header>
                 <label for="Joshua da Vitoria Jandoso">
-                    <img class="myself" src="https://i.imgur.com/UKVNXvwb.jpg" alt="Myself">
+                    <img class="myself" src="https://i.imgur.com/9MnE1NJm.jpg" alt="Myself">
                 </label>
                 <h1 id="profile-name">Joshua da Vitoria Jandoso</h1>
                 <div class="pure-menu pure-menu-horizontal pure-menu-scrollable">
